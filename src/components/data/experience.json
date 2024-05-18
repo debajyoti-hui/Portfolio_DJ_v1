@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "subject matter expert (SME) & Problem Setter",
+    "organisation": "TechCurators",
+    "startDate": "April, 2023 - ",
+    "endDate": "Present",
+    "location": "Delhi, India",
+    "experiences": [
+      "Worked on DSA, C++, SQL Problem Setting",
+      "Worked with Development Team"
+    ],
+    "imageSrc": "company/TC.png"
+  },
+  {
+    "id": 2,
+    "role": "Computer Science Engineering Student",
+    "organisation": "Chitkara University",
+    "startDate": "Aug, 2021 - ",
+    "endDate": "Present",
+    "location": "Himachal Pradesh, India",
+    "experiences": [
+      "Data Structures & Algorithms",
+      "Full Stack Web Development"
+    ],
+    "imageSrc": "company/chitkara.png"
+  }
+]
